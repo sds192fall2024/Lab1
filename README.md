@@ -1,6 +1,6 @@
 # Lab 1: GitHub
 
-*Due Wednesday 2/7 at 9pm.*
+*Due Wednesday 9/11 at 9pm.*
 
 ## Why do we use GitHub in this course?
 
