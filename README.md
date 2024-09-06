@@ -214,7 +214,7 @@ This means that the git path (/usr/bin/git) set under global options was not val
 
 ![exec-path](images/exec-path.png)
 
-(2) Then in RStudio, click Tools>Global Options>Git/SVN, in the section of Git executable, Browse in your computer to find the path: /Library/Developer/CommandLineTools/usr/libexec/git-core/git Then click Apply. Then you can cancel this window.
+(2) Then in RStudio, click Tools>Global Options>Git/SVN, in the section of Git executable, Browse in your computer to find the path: /Library/Developer/CommandLineTools/usr/libexec/git-core/git Then click Apply. Then you can cancel this window. For **Windows** users, the path may be C:\Program Files\Git\bin\git.exe
 
 ![set-the-git-path-in-RStudio](images/set-the-git-path-in-RStudio.png)
 
